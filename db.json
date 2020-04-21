@@ -1,0 +1,246 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "services 1",
+      "desc": "description 1",
+      "videos": [
+        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
+        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      ],
+      "packages": [
+        {
+          "name": "silver",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "300"
+        },
+        {
+          "name": "gold",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "600"
+        },
+        {
+          "name": "diamond",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "900"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "services 2",
+      "desc": "description 2",
+      "videos": [
+        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
+        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      ],
+      "packages": [
+        {
+          "name": "silver",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "300"
+        },
+        {
+          "name": "gold",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "600"
+        },
+        {
+          "name": "diamond",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "900"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "services 3",
+      "desc": "description 3",
+      "videos": [
+        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
+        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      ],
+      "packages": [
+        {
+          "name": "silver",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "300"
+        },
+        {
+          "name": "gold",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "600"
+        },
+        {
+          "name": "diamond",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "900"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "services 4",
+      "desc": "description 4",
+      "videos": [
+        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
+        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      ],
+      "packages": [
+        {
+          "name": "silver",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "300"
+        },
+        {
+          "name": "gold",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "600"
+        },
+        {
+          "name": "diamond",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "900"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "services 5",
+      "desc": "description 5",
+      "videos": [
+        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
+        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      ],
+      "packages": [
+        {
+          "name": "silver",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "300"
+        },
+        {
+          "name": "gold",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "600"
+        },
+        {
+          "name": "diamond",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "900"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "services 6",
+      "desc": "description 6",
+      "videos": [
+        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
+        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      ],
+      "packages": [
+        {
+          "name": "silver",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "300"
+        },
+        {
+          "name": "gold",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "600"
+        },
+        {
+          "name": "diamond",
+          "features": [
+            "feature1",
+            "feature2",
+            "feature3"
+          ],
+          "price": "900"
+        }
+      ]
+    }
+  ],
+  "clients": [
+    "https://www.salman-media.com/wp-content/uploads/2020/01/fKCDnGdd_400x400.jpg",
+    "https://www.salman-media.com/wp-content/uploads/2020/01/UOJ-Logo.jpg",
+    "https://www.salman-media.com/wp-content/uploads/2020/01/1174513.jpg",
+    "https://www.salman-media.com/wp-content/uploads/2020/01/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.png",
+    "https://www.salman-media.com/wp-content/uploads/2020/01/2P83m2b6_400x400.jpg",
+    "https://www.salman-media.com/wp-content/uploads/2020/01/5.jpeg"
+  ]
+}

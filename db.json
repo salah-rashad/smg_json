@@ -16,25 +16,25 @@
       "id": "3",
       "name": "service 3",
       "desc": "description 3",
-      "image": "https://img.icons8.com/material/03b5fc/256/camera.png"
+      "image": "https://img.icons8.com/material/07f00b/256/camera.png"
     },
     {
       "id": "4",
       "name": "service 4",
       "desc": "description 4",
-      "image": "https://img.icons8.com/material/03b5fc/256/camera.png"
+      "image": "https://img.icons8.com/material/f08f07/256/camera.png"
     },
     {
       "id": "5",
       "name": "service 5",
       "desc": "description 5",
-      "image": "https://img.icons8.com/material/03b5fc/256/camera.png"
+      "image": "https://img.icons8.com/material/f00707/256/camera.png"
     },
     {
       "id": "6",
       "name": "service 6",
       "desc": "description 6",
-      "image": "https://img.icons8.com/material/fc3103/256/camera.png"
+      "image": "https://img.icons8.com/material/07d5f0/256/camera.png"
     }
   ],
   "clients": [

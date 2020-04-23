@@ -4,6 +4,7 @@
       "id": "1",
       "name": "services 1",
       "desc": "description 1",
+      "image": "https://img.icons8.com/material/03fc07/256/camera.png",
       "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
@@ -43,6 +44,7 @@
       "id": "2",
       "name": "services 2",
       "desc": "description 2",
+      "image": "https://img.icons8.com/material/fcba03/256/camera.png",
       "portfolio": [
         "https://www.salman-media.com/wp-content/uploads/2020/01/IMAGEN-4-1.jpg",
         "https://www.salman-media.com/wp-content/uploads/2020/01/qtq50-oLe2B8.jpeg",
@@ -82,6 +84,7 @@
       "id": "3",
       "name": "services 3",
       "desc": "description 3",
+      "image": "https://img.icons8.com/material/07f00b/256/camera.png",
       "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.salman-media.com/wp-content/uploads/2020/01/IMAGEN-4-1.jpg",
@@ -122,6 +125,7 @@
       "id": "4",
       "name": "services 4",
       "desc": "description 4",
+      "image": "https://img.icons8.com/material/f08f07/256/camera.png",
       "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
@@ -161,6 +165,7 @@
       "id": "5",
       "name": "services 5",
       "desc": "description 5",
+      "image": "https://img.icons8.com/material/f00707/256/camera.png",
       "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
@@ -200,6 +205,7 @@
       "id": "6",
       "name": "services 6",
       "desc": "description 6",
+      "image": "https://img.icons8.com/material/07d5f0/256/camera.png",
       "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
@@ -235,13 +241,5 @@
         }
       ]
     }
-  ],
-  "clients": [
-    "https://www.salman-media.com/wp-content/uploads/2020/01/fKCDnGdd_400x400.jpg",
-    "https://www.salman-media.com/wp-content/uploads/2020/01/UOJ-Logo.jpg",
-    "https://www.salman-media.com/wp-content/uploads/2020/01/1174513.jpg",
-    "https://www.salman-media.com/wp-content/uploads/2020/01/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.png",
-    "https://www.salman-media.com/wp-content/uploads/2020/01/2P83m2b6_400x400.jpg",
-    "https://www.salman-media.com/wp-content/uploads/2020/01/5.jpeg"
   ]
 }

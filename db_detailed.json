@@ -4,7 +4,7 @@
       "id": "1",
       "name": "services 1",
       "desc": "description 1",
-      "videos": [
+      "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
         "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
@@ -43,10 +43,10 @@
       "id": "2",
       "name": "services 2",
       "desc": "description 2",
-      "videos": [
-        "https://www.youtube.com/watch?v=JI_34Ihp0B8",
-        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
-        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+      "portfolio": [
+        "https://www.salman-media.com/wp-content/uploads/2020/01/IMAGEN-4-1.jpg",
+        "https://www.salman-media.com/wp-content/uploads/2020/01/qtq50-oLe2B8.jpeg",
+        "https://www.salman-media.com/wp-content/uploads/2020/01/204225_1.jpg"
       ],
       "packages": [
         {
@@ -82,10 +82,11 @@
       "id": "3",
       "name": "services 3",
       "desc": "description 3",
-      "videos": [
+      "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
-        "https://www.youtube.com/watch?v=oNSDmUxTY1w",
-        "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
+        "https://www.salman-media.com/wp-content/uploads/2020/01/IMAGEN-4-1.jpg",
+        "https://www.youtube.com/watch?v=1ZW0N9pDrXM",
+        "https://www.salman-media.com/wp-content/uploads/2020/01/qtq50-oLe2B8.jpeg"
       ],
       "packages": [
         {
@@ -121,7 +122,7 @@
       "id": "4",
       "name": "services 4",
       "desc": "description 4",
-      "videos": [
+      "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
         "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
@@ -160,7 +161,7 @@
       "id": "5",
       "name": "services 5",
       "desc": "description 5",
-      "videos": [
+      "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
         "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
@@ -199,7 +200,7 @@
       "id": "6",
       "name": "services 6",
       "desc": "description 6",
-      "videos": [
+      "portfolio": [
         "https://www.youtube.com/watch?v=JI_34Ihp0B8",
         "https://www.youtube.com/watch?v=oNSDmUxTY1w",
         "https://www.youtube.com/watch?v=1ZW0N9pDrXM"
